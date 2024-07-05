@@ -1,7 +1,7 @@
 var member=[
 {"name":"范闲"},
-{"phone":"No.2","name":"张庆"},
-{"phone":"No.3","name":"林婉儿"},
+{"name":"张庆"},
+{"name":"林婉儿"},
 {"phone":"No.4","name":"海棠朵朵"},
 { "phone" : "No.5" , "name" : "范若若" } ,
 { "phone" : "6号" , "name" : "司理理" } ,
